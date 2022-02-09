@@ -1,0 +1,51 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    color: red;
+    text-align: center;
+}
+.parents{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.photo img{
+    width: 300px;
+}
+.details-btn{
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, red, violet, red);
+}
+.details-btn:hover{
+    background-color: blue;
+    color: limegreen;
+    cursor: pointer;
+}
+.second-section{
+    text-align: center;
+    margin-top: 50px;
+}
+.Dhaka{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 5px;
+}
+.div-img img{
+    width: 100%;
+}
+.all-divisions{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+.details{
+    background-color: hotpink;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
